@@ -47,13 +47,6 @@ Además: AzuraCast · BUTT · OBS Studio (NVENC) · redes (VLANs, routers, NDI) 
 - Desarrollo de Aplicaciones Iniciales (162 h)
 - Infraestructura TI Segura (144 h)
 
-### 📊 Estadísticas
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=24kcontreras&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=24kcontreras&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-contreras-530b643b7/)
