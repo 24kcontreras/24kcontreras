@@ -1,19 +1,16 @@
 <!-- Las líneas entre <!-- y --> son comentarios: no se ven en GitHub. Bórralos cuando termines. -->
 
-<h1 align="center">¡Hola! Soy [Tu Nombre] 👋</h1>
+<h1 align="center">¡Hola! Soy Leonardo Contreras</h1>
 <p align="center">
-  <!-- Una frase corta que te describa -->
-  [Desarrolladora / Estudiante / Diseñadora] apasionada por [lo que te gusta construir]
+  Estudiante de Ingeniería en Informatica, entusiasta de la tecnología
 </p>
 
 ---
 
-### 🙋 Sobre mí
+### Sobre mí
 
-- 🔭 Actualmente trabajo en **[proyecto actual]**
-- 🌱 Estoy aprendiendo **[tecnología o tema]**
-- 💬 Pregúntame sobre **[temas que dominas]**
-- ⚡ Dato curioso: [algo sobre ti]
+Actualmente trabajo en construir y mejorar de a poco **Calibreapp**
+aplicando ahí lo que voy aprendiendo a lo largo de este camino
 
 ### 🛠️ Tecnologías
 
@@ -26,8 +23,9 @@
 
 | Proyecto | Descripción |
 |----------|-------------|
-| [Nombre del proyecto](https://github.com/24kcontreras/repo) | Breve descripción de qué hace |
-| [Nombre del proyecto](https://github.com/24kcontreras/repo) | Breve descripción de qué hace |
+| [CALIBRE](https://github.com/24kcontreras/calibre-app) | Software de gestión de talleres mecanicos |
+| [BIBLIA ESTUDIO](https://github.com/24kcontreras/Biblia-Estudio) | App Web dedicada al estudio biblico
+| [RADIOSTARONLINE](https://github.com/24kcontreras/Radio-Star) | Radio Web online con musica disco & Dance para tu día a día
 
 ### 📊 Estadísticas
 
@@ -38,7 +36,6 @@
 
 ### 📫 Contacto
 
-<!-- Reemplaza los enlaces por los tuyos o borra los que no uses -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-sitio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-contreras-530b643b7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leon4rdo.contreras@gmail.com)
+
