@@ -35,7 +35,7 @@ Además: AzuraCast · BUTT · OBS Studio (NVENC) · redes (VLANs, routers, NDI) 
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| **CALIBRE** · [sitio](https://calibreapp.cl) · [código](https://github.com/24kcontreras/calibre-app) | SaaS de gestión para talleres mecánicos | Next.js, React, TypeScript, Tailwind, PostgreSQL |
+| **CALIBRE** · [sitio](https://calibreapp.cl) · [código](https://github.com/24kcontreras/calibre-portafolio) | SaaS de gestión para talleres mecánicos | Next.js, React, TypeScript, Tailwind, PostgreSQL |
 | **Biblia Estudio** · [demo](https://biblia-estudio-client.vercel.app) · [código](https://github.com/24kcontreras/Biblia-Estudio) | App web de lectura interactiva para el estudio bíblico | React, Vercel |
 | **Radio Star Online** · [sitio](https://radiostaronline.com) · [código](https://github.com/24kcontreras/Radio-Star) | Radio online de música disco y dance: infraestructura, streaming y web | Linux, AzuraCast, BUTT |
 | **Radio Bendición** · [sitio](https://radiobendicion.cl) | Radio online para cliente comercial: montaje del estudio, servidor y web | Linux, AzuraCast |
